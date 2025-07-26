@@ -1,4 +1,5 @@
 import React, { useState, useEffect, createContext, useContext, useRef } from 'react';
+@import "tailwindcss";
 
 // --- ICONS (using inline SVGs for simplicity) ---
 const ShoppingCartIcon = () => (
